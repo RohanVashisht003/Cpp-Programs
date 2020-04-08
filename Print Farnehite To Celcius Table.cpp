@@ -9,7 +9,7 @@ using namespace std;
      {
          int c=(5/9.0)*(i-32);
 
-         i=i+20;
+         i=i+step;
 
          cout<<i<<" "<<c<<endl;
 
